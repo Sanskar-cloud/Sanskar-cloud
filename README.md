@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sanskar-cloud
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Backend Development
 - 📫 How to reach me ...email id:sanskarbhadani11@gmail.com
 
 <!---
